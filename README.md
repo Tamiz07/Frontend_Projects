@@ -15,4 +15,8 @@ link : https://github.com/Tamiz07/Frontend_Projects/tree/main/House
 <img src="https://github.com/Tamiz07/Frontend_Projects/assets/118349184/7b3aba02-b2f3-43d1-8729-e1a834e00885">
 
 ## 3.Responsive_navbar
-Link : 
+Link : https://github.com/Tamiz07/Frontend_Projects/tree/main/Responsive_navbar
+<p>In this project, I designed a responsive navbar, where I utilized CSS flexbox properties and media queries to achieve a responsive layout that adapts to desktop, tablet, and mobile views. Through this project, I gained valuable knowledge and hands-on experience with these techniques.</p>
+<h3>Screen Shot</h3>
+<img src="https://github.com/Tamiz07/Frontend_Projects/assets/118349184/9f71d927-c309-4421-87f0-975ecbd0cb6d">
+
